@@ -7,7 +7,7 @@ Este repositório apresenta o desafio proposto pela DIO no curso de modelagem de
 
 Durante o curso, foi proposto o desenvolvimento de um modelo de banco de dados para um sistema de E-commerce. A primeira versão foi construída em conjunto com a instrutora, seguida por uma etapa de refinamento individual, considerando regras de negócio mais específicas.
 
-🧠 #Requisitos do Sistema
+🧠 Requisitos do Sistema
 
 🛒 Produto
 
@@ -61,7 +61,7 @@ This repository presents the challenge proposed by DIO during the database model
 
 The challenge involved creating a conceptual database model for an online sales platform. After building the initial version with the instructor, the project was refined to better reflect business logic and user scenarios.
 
-🧠 #System Requirements
+# 🧠 System Requirements
 
 🛒 Product
 
