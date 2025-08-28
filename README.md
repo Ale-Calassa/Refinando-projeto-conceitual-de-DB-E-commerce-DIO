@@ -1,5 +1,5 @@
 # PT-BR
-💼 Projeto E-commerce – Modelagem de Banco de Dados
+## 💼 Projeto E-commerce – Modelagem de Banco de Dados
 
 Este repositório apresenta o desafio proposto pela DIO no curso de modelagem de banco de dados, com foco em um sistema de E-commerce. O objetivo foi desenvolver um modelo conceitual e refiná-lo com base em requisitos reais de negócio.
 
@@ -7,7 +7,7 @@ Este repositório apresenta o desafio proposto pela DIO no curso de modelagem de
 
 Durante o curso, foi proposto o desenvolvimento de um modelo de banco de dados para um sistema de E-commerce. A primeira versão foi construída em conjunto com a instrutora, seguida por uma etapa de refinamento individual, considerando regras de negócio mais específicas.
 
-🧠 Requisitos do Sistema
+# 🧠 Requisitos do Sistema
 
 🛒 Produto
 
@@ -116,7 +116,7 @@ Este repositorio presenta el desafío propuesto por DIO durante el curso de mode
 
 El desafío consistió en crear un modelo conceptual de base de datos para una plataforma de ventas en línea. Después de construir la versión inicial con la instructora, el proyecto fue refinado para representar mejor la lógica de negocio y los escenarios de usuario.
 
-🧠 #Requisitos del Sistema
+# 🧠 Requisitos del Sistema
 
 🛒 Producto
 
